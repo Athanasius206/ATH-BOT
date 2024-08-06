@@ -8,14 +8,14 @@
 		"daily": {
 			"rewardDay1": {
 				"coin": 100,
-				"exp": 10
+				"exp": 100
 			}
 		},
 		"notification": {
-			"delayPerGroup": 260
+			"delayPerGroup": 200
 		},
 		"rank": {
-			"deltaNext": 5
+			"deltaNext": 10
 		},
 		"rankup": {
 			"deltaNext": 5
